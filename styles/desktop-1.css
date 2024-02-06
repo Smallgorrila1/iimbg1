@@ -13,7 +13,7 @@ input {
   border: none;
 }
 body {
-  max-width: fit-content;
+  max-width: 200%;
 }
 .desktop-1-8F7 {
   width: 100%;
