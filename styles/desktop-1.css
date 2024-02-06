@@ -1,0 +1,1907 @@
+html {
+  font-size: 62.5%;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+ul,
+li {
+  list-style: none;
+}
+input {
+  border: none;
+}
+body {
+  max-width: fit-content;
+}
+.desktop-1-8F7 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-1-8F7 .title-screen-sc1 {
+  box-sizing: border-box;
+  padding: 7rem 4rem 7rem 3rem;
+  width: 100%;
+  height: 108rem;
+  display: flex;
+  align-items: flex-start;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("/assets/bg.gif");
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .title-screen-sc1 .px-iimbglogowithspace-1-mjK {
+  margin-right: 25rem;
+  width: 23.3rem;
+  height: 19.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .title-screen-sc1 .auto-group-dnow-DLR {
+  margin: 13.3rem 20.6rem 0rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .title-screen-sc1 .auto-group-dnow-DLR .welcome-to-iimbg--6v1 {
+  margin-bottom: 3.8rem;
+  text-align: center;
+  font-size: 9rem;
+  font-weight: 400;
+  line-height: 1.3475;
+  color: #efeff5;
+  font-family: Abril Fatface, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .title-screen-sc1
+  .auto-group-dnow-DLR
+  .management-school-for-developing-socially-responsible-and-mindful-business-leaders-Gxu {
+  max-width: 89.4rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #efeff5;
+  font-family: Alef, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .title-screen-sc1 > button {
+  margin-bottom: 1195.2px;
+  padding: 20px 40px;
+  border-radius: 100px;
+  background-color: transparent;
+  /* box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25); */
+  height: auto;
+  width: auto;
+}
+.desktop-1-8F7 .auto-group-2d9f-yRP {
+  box-sizing: border-box;
+  padding: 6rem 3.4rem 4.5rem 3.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .auto-group-2d9f-yRP .news--Fth {
+  margin: 0rem 22.08rem 1.94rem 20.2rem;
+  width: calc(100% - 42.2798rem);
+  height: 97.1601rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .auto-group-2d9f-yRP .news--Fth .news-events-8Bo {
+  margin-right: 3.1098rem;
+  width: 93.2938rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .auto-group-2d9f-yRP .news--Fth .news-events-8Bo .title-oYq {
+  width: 100%;
+  height: 7.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .title-oYq
+  .line-3-7pR {
+  width: 93.2938rem;
+  height: 0rem;
+  position: absolute;
+  left: 0;
+  top: 6.7538rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .title-oYq
+  .news-and-events-pTw {
+  width: 53.1rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 2.7542rem;
+  top: 0;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9b0000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .auto-group-ub3k-7zm {
+  box-sizing: border-box;
+  padding-top: 2.3745rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .auto-group-ub3k-7zm
+  .news-3-RkZ {
+  margin: 0rem 0rem 3.333rem 0rem;
+  width: calc(100% - 0rem);
+  height: 22.8926rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .auto-group-ub3k-7zm
+  .news-3-RkZ
+  .rectangle-19-Kb3 {
+  width: 33.8968rem;
+  height: 22.8926rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .auto-group-ub3k-7zm
+  .news-3-RkZ
+  .auto-group-pgaz-Rty {
+  box-sizing: border-box;
+  padding: 0.263rem 0.087rem 3.745rem 3.054rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../assets/rectangle-12-9xh.png");
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .auto-group-ub3k-7zm
+  .news-3-RkZ
+  .auto-group-pgaz-Rty
+  .iimbg-celebrates-indias-g20-presidency-LW9 {
+  margin: 0rem 0rem 2.285rem 0.056rem;
+  max-width: 56.2rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .auto-group-ub3k-7zm
+  .news-3-RkZ
+  .auto-group-pgaz-Rty
+  .aug-27-2023-Qku {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #8b8b8b;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .auto-group-ub3k-7zm
+  .news-2-vUM {
+  margin: 0rem 0rem 3.421rem 0rem;
+  width: calc(100% - 0rem);
+  height: 22.8926rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .auto-group-ub3k-7zm
+  .news-2-vUM
+  .rectangle-19-qbK {
+  margin-top: 0rem;
+  width: 33.8968rem;
+  height: 22.8926rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .auto-group-ub3k-7zm
+  .news-2-vUM
+  .auto-group-ozem-ZnD {
+  margin-bottom: 0rem;
+  box-sizing: border-box;
+  padding: 0.263rem 0.987rem 3.823rem 3.054rem;
+  height: calc(100% - 0rem);
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../assets/rectangle-12.png");
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .auto-group-ub3k-7zm
+  .news-2-vUM
+  .auto-group-ozem-ZnD
+  .th-independence-day-2023-Ggd {
+  margin: 0rem 0rem 2.206rem 0.056rem;
+  max-width: 55.3rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .auto-group-ub3k-7zm
+  .news-2-vUM
+  .auto-group-ozem-ZnD
+  .aug-15-2023-Z9w {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #8b8b8b;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .auto-group-ub3k-7zm
+  .news-1-fim {
+  margin-right: 0rem;
+  width: calc(100% - 0rem);
+  height: 22.8926rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .auto-group-ub3k-7zm
+  .news-1-fim
+  .rectangle-19-opy {
+  margin-top: 0rem;
+  width: 33.8968rem;
+  height: 22.8926rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .auto-group-ub3k-7zm
+  .news-1-fim
+  .auto-group-brnz-wwB {
+  margin-bottom: 0rem;
+  box-sizing: border-box;
+  padding: 0.263rem 2.487rem 2.991rem 3.11rem;
+  height: calc(100% - 0rem);
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../assets/rectangle-12-Pu7.png");
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .auto-group-ub3k-7zm
+  .news-1-fim
+  .auto-group-brnz-wwB
+  .hindi-pakhawada-2023-fcH {
+  margin-bottom: 8.8389rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .news-events-8Bo
+  .auto-group-ub3k-7zm
+  .news-1-fim
+  .auto-group-brnz-wwB
+  .sep-29-2023-zeZ {
+  margin-left: 0.0312rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #8b8b8b;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .auto-group-2d9f-yRP .news--Fth .auto-group-tgyd-JQM {
+  width: 46.5165rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .admissions-48d {
+  margin-bottom: 4.4635rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .admissions-48d
+  .auto-group-ycwy-D1X {
+  margin-bottom: 2.8601rem;
+  width: 44.1591rem;
+  height: 7.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .admissions-48d
+  .auto-group-ycwy-D1X
+  .admission-9fs {
+  width: 31.2rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 1.4628rem;
+  top: 0;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9b0000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .admissions-48d
+  .auto-group-ycwy-D1X
+  .line-2-4H3 {
+  width: 44.1591rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 0;
+  top: 6.7541rem;
+  background-color: #9b0000;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .admissions-48d
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7 {
+  margin-right: 0.1695rem;
+  max-width: 45.7rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .admissions-48d
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7-sub-0 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .admissions-48d
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7-sub-1 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .admissions-48d
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7-sub-2 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .admissions-48d
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7-sub-3 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .admissions-48d
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7-sub-4 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .admissions-48d
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7-sub-5 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .admissions-48d
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7-sub-6 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .admissions-48d
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7-sub-7 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .admissions-48d
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7-sub-8 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .admissions-48d
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7
+  .phd-2024-admission-apply-now-mba-2024-26-admission-click-here-mba-dbm-2024-26-admission-click-here-mba-hhm-2024-26-admission-click-here-ipm-2023-28-admission-result-announced-Pq7-sub-9 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .notifications-SPP {
+  margin-left: 0.0165rem;
+  width: calc(100% - 0.0165rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .notifications-SPP
+  .auto-group-uivk-Nnq {
+  margin: 0rem 1.563rem 2.837rem 0.777rem;
+  width: calc(100% - 2.3409rem);
+  height: 7.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .notifications-SPP
+  .auto-group-uivk-Nnq
+  .notification-JAh {
+  width: 35rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 2.1671rem;
+  top: 0;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9b0000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .notifications-SPP
+  .auto-group-uivk-Nnq
+  .line-2-1L1 {
+  width: 44.1591rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 0;
+  top: 6.9747rem;
+  background-color: #9b0000;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .notifications-SPP
+  .mba-digital-business-management-mba-hospital-healthcare-management-audited-final-placement-report-of-mba-batch-2020-22-100-placement-wzM {
+  max-width: 46.5rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .notifications-SPP
+  .mba-digital-business-management-mba-hospital-healthcare-management-audited-final-placement-report-of-mba-batch-2020-22-100-placement-wzM
+  .mba-digital-business-management-mba-hospital-healthcare-management-audited-final-placement-report-of-mba-batch-2020-22-100-placement-wzM-sub-0 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .notifications-SPP
+  .mba-digital-business-management-mba-hospital-healthcare-management-audited-final-placement-report-of-mba-batch-2020-22-100-placement-wzM
+  .mba-digital-business-management-mba-hospital-healthcare-management-audited-final-placement-report-of-mba-batch-2020-22-100-placement-wzM-sub-1 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .notifications-SPP
+  .mba-digital-business-management-mba-hospital-healthcare-management-audited-final-placement-report-of-mba-batch-2020-22-100-placement-wzM
+  .mba-digital-business-management-mba-hospital-healthcare-management-audited-final-placement-report-of-mba-batch-2020-22-100-placement-wzM-sub-2 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .notifications-SPP
+  .mba-digital-business-management-mba-hospital-healthcare-management-audited-final-placement-report-of-mba-batch-2020-22-100-placement-wzM
+  .mba-digital-business-management-mba-hospital-healthcare-management-audited-final-placement-report-of-mba-batch-2020-22-100-placement-wzM-sub-3 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .auto-group-2d9f-yRP
+  .news--Fth
+  .auto-group-tgyd-JQM
+  .notifications-SPP
+  .mba-digital-business-management-mba-hospital-healthcare-management-audited-final-placement-report-of-mba-batch-2020-22-100-placement-wzM
+  .mba-digital-business-management-mba-hospital-healthcare-management-audited-final-placement-report-of-mba-batch-2020-22-100-placement-wzM-sub-4 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7 .auto-group-2d9f-yRP .line-5-n1K {
+  width: 185.2rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .grid-system-7pH {
+  margin-bottom: 7.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .grid-system-7pH .grid-1-Tt9 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .grid-system-7pH .grid-1-Tt9 .chairperson-dGq {
+  width: 100%;
+  height: 54rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .grid-system-7pH .grid-1-Tt9 .chairperson-dGq .rectangle-18-ybb {
+  width: 64rem;
+  height: 54rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .grid-system-7pH .grid-1-Tt9 .chairperson-dGq .info-7ho {
+  box-sizing: border-box;
+  padding: 2.5rem 1.6rem 4.6rem 4.1rem;
+  width: 128rem;
+  height: 100%;
+  row-gap: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #383381;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-1-Tt9
+  .chairperson-dGq
+  .info-7ho
+  .line-4-EGd {
+  margin: 0rem 70.9rem 0rem 51.4rem;
+  width: calc(100% - 122.3rem);
+  height: 0.3rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-1-Tt9
+  .chairperson-dGq
+  .info-7ho
+  .auto-group-nq6z-ZJu {
+  margin-right: 10.9rem;
+  width: calc(100% - 10.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-1-Tt9
+  .chairperson-dGq
+  .info-7ho
+  .auto-group-nq6z-ZJu
+  .shri-uday-kotak-6Zj {
+  margin-right: 6.2rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9c0000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-1-Tt9
+  .chairperson-dGq
+  .info-7ho
+  .auto-group-nq6z-ZJu
+  .about-chairperson-oyw {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9c0000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-1-Tt9
+  .chairperson-dGq
+  .info-7ho
+  .auto-group-kwsb-waM {
+  margin-left: 0.8rem;
+  width: calc(100% - 0.8rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-1-Tt9
+  .chairperson-dGq
+  .info-7ho
+  .auto-group-kwsb-waM
+  .chairperson-iim-bodh-gaya-managing-director-ceo-kotak-mahindra-bank-limited-tEh {
+  margin-right: 8.1rem;
+  max-width: 48rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-1-Tt9
+  .chairperson-dGq
+  .info-7ho
+  .auto-group-kwsb-waM
+  .uday-kotak-is-the-founder-and-md-ceo-of-kotak-mahindra-bank-kotak-the-bank-has-consolidated-net-worth-of-around-us775-billion-and-over-71000-employees-BDo {
+  max-width: 65.4rem;
+  font-size: 4.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .grid-system-7pH .grid-1-Tt9 .director-QcM {
+  width: 100%;
+  height: 54rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .grid-system-7pH .grid-1-Tt9 .director-QcM .info-kw7 {
+  box-sizing: border-box;
+  padding: 2.5rem 2.3rem 4.6rem 3.3rem;
+  width: 128rem;
+  height: 100%;
+  row-gap: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #edbd3a;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-1-Tt9
+  .director-QcM
+  .info-kw7
+  .line-4-TqX {
+  margin: 0rem 70.2rem 0rem 52.2rem;
+  width: calc(100% - 122.4rem);
+  height: 0.3rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-1-Tt9
+  .director-QcM
+  .info-kw7
+  .auto-group-vnsh-C2R {
+  margin-right: 9.6rem;
+  width: calc(100% - 9.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-1-Tt9
+  .director-QcM
+  .info-kw7
+  .auto-group-vnsh-C2R
+  .dr-vinita-sahay-jo3 {
+  margin-right: 7.7rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9c0000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-1-Tt9
+  .director-QcM
+  .info-kw7
+  .auto-group-vnsh-C2R
+  .directors-message-gCV {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9c0000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-1-Tt9
+  .director-QcM
+  .info-kw7
+  .auto-group-i79p-ziy {
+  margin-left: 1.6rem;
+  width: calc(100% - 1.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-1-Tt9
+  .director-QcM
+  .info-kw7
+  .auto-group-i79p-ziy
+  .director-iim-bodh-gaya-weD {
+  margin-right: 23.3rem;
+  max-width: 32.8rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-1-Tt9
+  .director-QcM
+  .info-kw7
+  .auto-group-i79p-ziy
+  .at-a-time-when-india-is-poised-to-become-a-major-world-economy-iim-bodh-gaya-is-shaping-up-as-a-formidable-contributor-of-managerial-talents-in-that-direction-GgV {
+  max-width: 64.7rem;
+  font-size: 4.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .grid-system-7pH .grid-1-Tt9 .director-QcM .rectangle-17-vm3 {
+  width: 64rem;
+  height: 54rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .grid-system-7pH .grid-2-fid {
+  width: 100%;
+  height: 108rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .grid-system-7pH .grid-2-fid .samatvam-RSu {
+  width: 64rem;
+  height: 108rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .grid-system-7pH .grid-2-fid .auto-group-smpr-mmf {
+  width: 128rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .grid-system-7pH .grid-2-fid .auto-group-smpr-mmf .faculty-iwo {
+  box-sizing: border-box;
+  padding: 26.2rem 2.4rem 1.3rem 2.4rem;
+  width: 100%;
+  font-size: 7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  background-color: #302c6f;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-2-fid
+  .auto-group-smpr-mmf
+  .auto-group-whth-1vu {
+  width: 100%;
+  height: 72rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-2-fid
+  .auto-group-smpr-mmf
+  .auto-group-whth-1vu
+  .placements-y73 {
+  box-sizing: border-box;
+  padding: 58.5rem 3.4rem 5rem 3.4rem;
+  width: 64rem;
+  height: 100%;
+  font-size: 7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #a90000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  background-color: #a87c34;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../assets/rectangle-5-bg.png");
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-2-fid
+  .auto-group-smpr-mmf
+  .auto-group-whth-1vu
+  .achievment-cQu {
+  width: 64rem;
+  height: 72rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .grid-system-7pH .grid-3-vgV {
+  width: 100%;
+  height: 108rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .grid-system-7pH .grid-3-vgV .auto-group-fh17-Uxu {
+  width: 128rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .grid-system-7pH .grid-3-vgV .auto-group-fh17-Uxu .ir-q2m {
+  width: 100%;
+  height: 54rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-3-vgV
+  .auto-group-fh17-Uxu
+  .ir-q2m
+  .rectangle-21-PKB {
+  width: 64rem;
+  height: 54rem;
+  position: absolute;
+  left: 64rem;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../assets/rectangle-21-bg.png");
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-3-vgV
+  .auto-group-fh17-Uxu
+  .ir-q2m
+  .rectangle-22-7ky {
+  width: 64rem;
+  height: 54rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #302c6f;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-3-vgV
+  .auto-group-fh17-Uxu
+  .ir-q2m
+  .international-relations-fXb {
+  width: 40rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 32.5rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-3-vgV
+  .auto-group-fh17-Uxu
+  .ir-q2m
+  .polygon-1-fAD {
+  width: 11.1rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 60.1rem;
+  top: 21.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-3-vgV
+  .auto-group-fh17-Uxu
+  .clubs-comms-bJm {
+  width: 100%;
+  height: 54rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-3-vgV
+  .auto-group-fh17-Uxu
+  .clubs-comms-bJm
+  .rectangle-23-x9K {
+  width: 64rem;
+  height: 54rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-3-vgV
+  .auto-group-fh17-Uxu
+  .clubs-comms-bJm
+  .rectangle-24-hch {
+  width: 64rem;
+  height: 54rem;
+  position: absolute;
+  left: 64rem;
+  top: 0;
+  background-color: #edbd3a;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-3-vgV
+  .auto-group-fh17-Uxu
+  .clubs-comms-bJm
+  .clubs-and-committes-FeD {
+  width: 34.6rem;
+  height: 23.3rem;
+  position: absolute;
+  left: 67.2rem;
+  top: 28.6rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-3-vgV
+  .auto-group-fh17-Uxu
+  .clubs-comms-bJm
+  .polygon-2-yKK {
+  width: 11.1rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 56.1rem;
+  top: 23rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-8F7 .grid-system-7pH .grid-3-vgV .life-at-JMb {
+  box-sizing: border-box;
+  padding: 78.9rem 2.8rem 4.1rem 2.8rem;
+  width: 64rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../assets/rectangle-20-bg.png");
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .grid-system-7pH .grid-3-vgV .life-at-JMb .life-iim-bg-Rh7 {
+  margin-bottom: 2.6rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+}
+.desktop-1-8F7
+  .grid-system-7pH
+  .grid-3-vgV
+  .life-at-JMb
+  .iim-bodh-gaya-is-one-of-the-small-manifestation-of-this-campus-life-ZYR {
+  margin-left: 0.7rem;
+  max-width: 52.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #9c0000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7 .ranking-pDT {
+  margin: 0rem 3.4rem 13.2rem 3.4rem;
+  width: calc(100% - 6.8rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .ranking-pDT .title-LxV {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .ranking-pDT .title-LxV .rankings-of-iim-bg-6wf {
+  margin: 0rem 0rem 2.1rem 0.8rem;
+  font-size: 9.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #9b0000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .ranking-pDT .title-LxV .line-6-Czh {
+  width: 185.2rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .ranking-pDT .auto-group-nquw-Z4Z {
+  box-sizing: border-box;
+  padding: 3.8rem 1.8rem 0rem 5.25rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .ranking-pDT .auto-group-nquw-Z4Z .line-8-t6q {
+  margin: 0rem 58.8rem 0.6rem 119.35rem;
+  width: calc(100% - 178.15rem);
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .ranking-pDT .auto-group-nquw-Z4Z .line-7-CdK {
+  margin: 0rem 122.8rem 3rem 55.35rem;
+  width: calc(100% - 178.15rem);
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .ranking-pDT .auto-group-nquw-Z4Z .auto-group-2zuk-Xfb {
+  width: 100%;
+  height: 40.7rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .ranking-pDT
+  .auto-group-nquw-Z4Z
+  .auto-group-2zuk-Xfb
+  .nirf-g2h {
+  margin-right: 14.7rem;
+  width: 46.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .ranking-pDT
+  .auto-group-nquw-Z4Z
+  .auto-group-2zuk-Xfb
+  .nirf-g2h
+  .rank-amongst-business-schools-in-india-by-the-nirf-management-category-2023-2MT {
+  width: 46.8rem;
+  height: 29.1rem;
+  position: absolute;
+  left: 0;
+  top: 11.6rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .ranking-pDT
+  .auto-group-nquw-Z4Z
+  .auto-group-2zuk-Xfb
+  .nirf-g2h
+  .rd-JJy {
+  width: 22.3rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 12.15rem;
+  top: 0;
+  font-size: 9.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+}
+.desktop-1-8F7
+  .ranking-pDT
+  .auto-group-nquw-Z4Z
+  .auto-group-2zuk-Xfb
+  .iirf-omX {
+  margin-right: 17.15rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .ranking-pDT
+  .auto-group-nquw-Z4Z
+  .auto-group-2zuk-Xfb
+  .iirf-omX
+  .st-MY9 {
+  margin: 0rem 2rem 2.8rem 0rem;
+  font-size: 9.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .ranking-pDT
+  .auto-group-nquw-Z4Z
+  .auto-group-2zuk-Xfb
+  .iirf-omX
+  .rank-amongst-business-schools-in-india-by-the-iirf-2023-Gv1 {
+  max-width: 48.6rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .ranking-pDT
+  .auto-group-nquw-Z4Z
+  .auto-group-2zuk-Xfb
+  .business-today-ntM {
+  width: 50.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .ranking-pDT
+  .auto-group-nquw-Z4Z
+  .auto-group-2zuk-Xfb
+  .business-today-ntM
+  .rank-amongst-business-schools-in-india-by-the-business-today-ranking-executive-mba-2023-wmF {
+  width: 50.9rem;
+  height: 29.1rem;
+  position: absolute;
+  left: 0;
+  top: 11.6rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7
+  .ranking-pDT
+  .auto-group-nquw-Z4Z
+  .auto-group-2zuk-Xfb
+  .business-today-ntM
+  .th-bqo {
+  width: 20.8rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 14.3rem;
+  top: 0;
+  font-size: 9.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+}
+.desktop-1-8F7 .footer-VgH {
+  box-sizing: border-box;
+  padding-top: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .footer-VgH .auto-group-gpch-qk9 {
+  margin: 0rem 0rem 2rem 3.7rem;
+  height: 62.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .footer-VgH .auto-group-gpch-qk9 .iimbg--NEH {
+  margin: 0rem 8.9rem 15.6rem 0rem;
+  width: 41.2rem;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .iimbg--NEH
+  .auto-group-2gpd-W5b {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 37.6rem;
+  position: relative;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .iimbg--NEH
+  .auto-group-2gpd-W5b
+  .logo-eSh {
+  width: 36.9rem;
+  height: 30.6rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .iimbg--NEH
+  .auto-group-2gpd-W5b
+  .address-zFf {
+  width: 41.2rem;
+  height: 9.3rem;
+  position: absolute;
+  left: 0;
+  top: 28.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .iimbg--NEH
+  .auto-group-2gpd-W5b
+  .address-zFf
+  .icons8-location-30-1-Wzh {
+  margin-right: 0.5rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .iimbg--NEH
+  .auto-group-2gpd-W5b
+  .address-zFf
+  .uruvela-prabandh-viharbodh-gaya-824234-gaya-bihar-india-3jj {
+  margin-top: 0.5rem;
+  max-width: 35.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .footer-VgH .auto-group-gpch-qk9 .iimbg--NEH .mail-8mB {
+  margin-right: 1.25rem;
+  width: calc(100% - 1.25rem);
+  display: flex;
+  align-items: center;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .iimbg--NEH
+  .mail-8mB
+  .icons8-mail-24-1-GcV {
+  margin-right: 1.75rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .iimbg--NEH
+  .mail-8mB
+  .directorofficeiimbgacin-Cm3 {
+  margin-top: 0.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .footer-VgH .auto-group-gpch-qk9 .imp-links-7t1 {
+  margin: 5.9rem 15rem 0rem 0rem;
+  width: 29.7rem;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .imp-links-7t1
+  .important-links-f8q {
+  margin-bottom: 5.3rem;
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .imp-links-7t1
+  .programs-rti-anti-ragging-tenders-staff-members-polices-internal-complain-committee-careers-Bcy {
+  max-width: 19.5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7 .footer-VgH .auto-group-gpch-qk9 .quick-links-HAD {
+  margin: 5.9rem 21.4rem 2.9rem 0rem;
+  width: 25.8rem;
+  height: calc(100% - 8.8rem);
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .quick-links-HAD
+  .quick-links-cCV {
+  margin-bottom: 5.3rem;
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .quick-links-HAD
+  .about-iim-bg-director-iim-bg-board-of-governors-news-letters-events-clubs-and-committees-gallery-holiday-list-8gd {
+  max-width: 25.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+}
+.desktop-1-8F7 .footer-VgH .auto-group-gpch-qk9 .auto-group-t6cu-EDs {
+  margin: 5.9rem 0rem 8.4rem 0rem;
+  width: 30.6rem;
+  height: calc(100% - 14.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .auto-group-t6cu-EDs
+  .socials-MJV {
+  margin-bottom: 4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .auto-group-t6cu-EDs
+  .socials-MJV
+  .socials-tpD {
+  margin-bottom: 4.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .auto-group-t6cu-EDs
+  .socials-MJV
+  .auto-group-xbem-Dbb {
+  margin-bottom: 6rem;
+  width: 100%;
+  display: flex;
+  column-gap: 4.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .auto-group-t6cu-EDs
+  .socials-MJV
+  .auto-group-xbem-Dbb
+  .icons8-facebook-50-1-AFw {
+  width: 7rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .auto-group-t6cu-EDs
+  .socials-MJV
+  .auto-group-xbem-Dbb
+  .icons8-youtube-50-1-6vH {
+  width: 7rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .auto-group-t6cu-EDs
+  .socials-MJV
+  .auto-group-xbem-Dbb
+  .icons8-twitterx-50-1-egu {
+  width: 7rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .auto-group-t6cu-EDs
+  .socials-MJV
+  .auto-group-yuam-o41 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .auto-group-t6cu-EDs
+  .socials-MJV
+  .auto-group-yuam-o41
+  .icons8-instagram-50-1-Z3B {
+  margin-right: 5.3rem;
+  width: 7rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .auto-group-t6cu-EDs
+  .socials-MJV
+  .auto-group-yuam-o41
+  .icons8-linkedin-24-1-VSd {
+  margin-right: 4.3rem;
+  width: 7rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .auto-group-t6cu-EDs
+  .socials-MJV
+  .auto-group-yuam-o41
+  .icons8-mail-24-2-SMs {
+  width: 7rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .auto-group-t6cu-EDs
+  .buttons-aDB {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .auto-group-t6cu-EDs
+  .buttons-aDB
+  .screen-reader-button-Xu7 {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 6.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f0f0;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .auto-group-gpch-qk9
+  .auto-group-t6cu-EDs
+  .buttons-aDB
+  .connect-with-us-button-c9s {
+  width: 100%;
+  height: 6.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f0f0;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .footer-VgH .copyright-strip-ftq {
+  box-sizing: border-box;
+  padding: 1.7rem 8.1rem 1.6rem 6.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #8f8989;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .footer-VgH .copyright-strip-ftq .deceloped-by-it-comm-ipm-Q5j {
+  margin-right: 22.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-8F7
+  .footer-VgH
+  .copyright-strip-ftq
+  .copyright-2023-indian-institute-of-management-bodh-gaya-Xw3 {
+  margin-right: 23.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-8F7 .footer-VgH .copyright-strip-ftq .website-policy-site-map-SYD {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
